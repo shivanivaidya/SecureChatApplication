@@ -1,3 +1,4 @@
+Read the PS4.pptx to understand the project description.
 
 Ensure that "unlimited strength JCE policy jar files" are included in the java path.
 
